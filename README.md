@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prithvi183
-- 👀 I’m interested in Learning Programming Languages.
+- 👀 I’m interested in Learning various Languages.
 - 🌱 I’m currently learning C, Cpp, Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prithvi.patil183@gmail.com.
